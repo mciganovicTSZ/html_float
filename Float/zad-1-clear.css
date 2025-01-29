@@ -1,0 +1,25 @@
+div {
+    width: 100px;
+    height: 100px;
+    clear: right;
+    border: 1px solid red;
+}
+.jd{
+    p{
+        color: red;
+        text-align: left;
+        padding-left: 10px;
+        vertical-align: center;
+        float: left;
+    }
+
+}
+.dv {
+    p{
+        color: red;
+        text-align: left;
+        padding-left:10px;
+        vertical-align: center;
+        float: left;
+    }
+}

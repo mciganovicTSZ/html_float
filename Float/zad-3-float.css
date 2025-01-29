@@ -1,0 +1,18 @@
+div {
+    img{
+        width:300px;
+        height: 300px;
+        float: left;
+    }
+}
+p.sam {
+    text-align: right;
+}
+p.tri {
+    float:left;
+    img {
+        width:100px;
+        height: 100px;
+        float:right;
+    }
+}

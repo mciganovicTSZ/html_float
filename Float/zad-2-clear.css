@@ -1,0 +1,22 @@
+div{
+        background-color: blue;
+        height:100px;
+    }
+.uno{
+    float:left;
+    clear: right;
+    width:30%;
+
+}
+.dos{
+
+        float:right;
+        clear: left;
+        width:30%;
+}
+.tres{
+
+        background-color: blue;
+        width:100%;
+        clear: both;
+}
